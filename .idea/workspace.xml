@@ -37,9 +37,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="imageTag" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="343bb250-5a6d-46a6-8cd9-01fc57041bb7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-    </list>
+    <list default="true" id="343bb250-5a6d-46a6-8cd9-01fc57041bb7" name="Default" comment="" />
     <ignored path="android.load.imageView.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="343bb250-5a6d-46a6-8cd9-01fc57041bb7" time="1369058636669" ignored="false" />
