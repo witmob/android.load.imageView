@@ -38,12 +38,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="343bb250-5a6d-46a6-8cd9-01fc57041bb7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/easymorse/android_load_imageView/MyActivity.java" afterPath="$PROJECT_DIR$/src/com/easymorse/android_load_imageView/MyActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="android.load.imageView.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="343bb250-5a6d-46a6-8cd9-01fc57041bb7" time="1369058636669" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="343bb250-5a6d-46a6-8cd9-01fc57041bb7" time="1369098964019" ignored="false" />
     <file path="/Dummy.txt" changelist="343bb250-5a6d-46a6-8cd9-01fc57041bb7" time="1369099347000" ignored="false" />
     <file path="/fragment.java" changelist="343bb250-5a6d-46a6-8cd9-01fc57041bb7" time="1369058768738" ignored="false" />
     <file path="/AsyncImageLoader.java" changelist="343bb250-5a6d-46a6-8cd9-01fc57041bb7" time="1369060243566" ignored="false" />
@@ -121,10 +121,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/easymorse/android_load_imageView/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="4" selection-start="337" selection-end="337" vertical-scroll-proportion="0.7291667">
+            <state line="14" column="4" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#733#1037#0" expanded="true" />
@@ -152,10 +152,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="5" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
+            <state line="2" column="6" selection-start="25" selection-end="25" vertical-scroll-proportion="0.09966777">
               <folding />
             </state>
           </provider>
@@ -194,8 +194,8 @@
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/src/com/util/AsyncImageLoader.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/easymorse/android_load_imageView/MyActivity.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -591,21 +591,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="5" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/easymorse/android_load_imageView/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="4" selection-start="337" selection-end="337" vertical-scroll-proportion="0.7291667">
+        <state line="14" column="4" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#733#1037#0" expanded="true" />
             <element signature="e#1026#1027#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="25" selection-end="25" vertical-scroll-proportion="0.09966777">
+          <folding />
         </state>
       </provider>
     </entry>
