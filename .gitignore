@@ -1,1 +1,10 @@
-dea/**/*
+.dea/**/*
+gen/**/*
+/gen
+/bin
+/out
+.classpath
+.project
+project.properties
+.settings
+
