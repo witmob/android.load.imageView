@@ -4,8 +4,9 @@ import android.app.Activity;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.util.Log;
-import android.widget.ImageView;
-import com.util.AsyncImageLoader;
+
+import com.easymorse.util.AsyncImageLoader;
+import com.easymorse.util.AsyncImageView;
 
 public class MyActivity extends Activity {
     /**
@@ -17,18 +18,7 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-        final ImageView imageView=(ImageView)findViewById(R.id.image);
-
-        AsyncImageLoader imageLoader = new AsyncImageLoader();
-        imageLoader.loadLoadingDrawable("http://api.art.china.cn/pics/exhibition/20130510030535264_c1.jpg", new AsyncImageLoader.ImageCallback() {
-            public void imageLoaded(Bitmap mBitmap, String imageUrl) {
-                Log.v("imageTag","-----111--->>"+mBitmap);
-                if (mBitmap != null) {
-                    imageView.setImageBitmap(mBitmap);
-                }
-            }
-        });
-        
-        //李震提交
+        final AsyncImageView imageView=(AsyncImageView)findViewById(R.id.image);
+        imageView.setUrl("http://api.art.china.cn/pics/exhibition/20130510030535264_c1.jpg", R.drawable.calendar_loading);
     }
 }
