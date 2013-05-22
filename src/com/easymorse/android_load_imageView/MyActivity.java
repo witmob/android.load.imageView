@@ -1,12 +1,9 @@
 package com.easymorse.android_load_imageView;
 
 import android.app.Activity;
-import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.util.Log;
 
-import com.easymorse.util.AsyncImageLoader;
-import com.easymorse.util.AsyncImageView;
+import com.util.AsyncImageView;
 
 public class MyActivity extends Activity {
     /**
